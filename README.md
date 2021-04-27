@@ -9,7 +9,7 @@ Use the package manager [npm] to install webuilder.
 git clone https://github.com/jrdesignhero/westelm-cli-utility.git
 cd westelm-cli-utility
 npm install
-chmod +x cli.js
+chmod +x index.js
 npm link
 ```
 
