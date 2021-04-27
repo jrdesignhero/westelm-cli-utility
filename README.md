@@ -1,6 +1,8 @@
 # westelm-cli-utility
 webuilder is a commandline utility for scaffolding west elm landing page rows
 
+![](//i.imgur.com/8JKESHE.gif)
+
 ## Installation
 
 Use the package manager [npm] to install webuilder.
